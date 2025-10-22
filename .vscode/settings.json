@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.import.gradle.enabled": true,
+    "java.import.gradle.wrapper.enabled": true,
+    "java.import.gradle.offline.enabled": false,
+    "java.import.gradle.arguments": [
+        "--refresh-dependencies"
+    ],
+    "java.import.gradle.java.home": "C:\\Program Files\\Java\\jdk-17"
+}
